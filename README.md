@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-On Fleek!
+** On Fleek!
 * System dependencies
 Zero!
 * Configuration
